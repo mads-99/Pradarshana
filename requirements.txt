@@ -1,0 +1,10 @@
+tensorflow-cpu
+keras
+matplotlib
+numpy
+sklearn
+Pillow
+scipy
+flask
+Werkzeug
+gevent
